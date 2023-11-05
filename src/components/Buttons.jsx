@@ -1,6 +1,6 @@
 import React from "react";
 import './Buttons.css'
-//github changes
+//git push test
 
 function Buttons({nextUrl, prevUrl, fetchCharacterData}) {
     return (
