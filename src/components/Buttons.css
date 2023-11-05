@@ -1,0 +1,21 @@
+.buttons {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    margin: 20px;
+}
+
+.btn {
+    height: 50px;
+    width: 70px;
+    margin: 20px;
+    text-align: center;
+    align-items: center;
+    background-color: #0f7b84;
+    border: 3px solid #d6e770;
+}
+
+span{
+    text-align: center;
+    color: white;
+}
