@@ -18,6 +18,5 @@ function Card({ cardData }) {
     );
 
 }
-
 //changes test for github
 export default Card;
