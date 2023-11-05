@@ -4,7 +4,6 @@ import "./cards.css";
 
 
 function Cards({ characters }) {
-
     return (
         <>
             <div className="cards">

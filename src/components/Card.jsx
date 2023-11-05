@@ -16,6 +16,7 @@ function Card({ cardData }) {
             </div>
         </div>
     );
+
 }
 
 export default Card;
